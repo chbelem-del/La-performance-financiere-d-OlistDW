@@ -20,7 +20,7 @@ Objectifs:
 
 Technologies utilisées:
 
-* Python (Pandas, NumPy)
+* Python (Pandas)
 * VS Code
 * Power BI
 * DAX
